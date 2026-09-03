@@ -102,3 +102,8 @@ muestra este comando.
 
 ## ✅ Entrega
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
+
+
+## 🔍 Investigación adicional — git reflog
+
+El comando `git reflog` muestra un historial completo de todos los movimientos y cambios de `HEAD` en el repositorio local. A diferencia de `git log`, guarda registros de commits borrados, resets, uniones y cambios de rama, lo que permite recuperar información o deshacer cambios accidentales incluso cuando parecen haberse perdido.
